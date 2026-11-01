@@ -21,3 +21,15 @@ CLAUDE.md
 __pycache__/
 *.py[cod]
 *.egg-info/
+
+# SPbot engine (vendored TypeScript harness) build artifacts
+engine/node_modules/
+engine/dist/
+engine/dist-server/
+engine/dist-companion/
+engine/dist-desktop/
+engine/release/
+engine/build/
+engine/*.log
+engine/.tmpexp/
+engine/.oss-scanner/

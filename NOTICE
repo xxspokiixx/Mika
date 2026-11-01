@@ -1,2 +1,15 @@
-Mika
-Copyright 2026 wangzan101
+SPbot
+Copyright 2026 SPbot contributors
+
+This product includes software developed as OpenMausBot by Milind Soni and
+OpenMausBot contributors (https://github.com/milind-soni/OpenMausBot),
+licensed under the Apache License, Version 2.0, and merged with the Mika
+Android agent (https://github.com/xxspokiixx/Mika).
+
+The engine/ directory is derived from OpenMausBot (Apache-2.0). The
+enterprise/ directory of the upstream project is not included; what ships
+here is the open-source edition.
+
+Packaged third-party components retain their upstream license terms; see
+engine/third_party/ for provenance records and licenses/THIRD_PARTY_NOTICES.md
+for the Android application's notices.
